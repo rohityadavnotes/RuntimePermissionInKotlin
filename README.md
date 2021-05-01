@@ -1,4 +1,4 @@
-# JAVA - RuntimePermissionInJava #
+# Kotlin - RuntimePermissionInKotlin #
 
 Let RuntimePermissionInJava support
 
